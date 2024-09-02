@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sayed Ahmd
 #### I am a Full Stack Web Development with MERN
-![Cover photo](https://github.com/user-attachments/assets/497a9796-61fa-44f8-b486-3975f7d1efa6)
+[[![Cover photo](https://github.com/user-attachments/assets/497a9796-61fa-44f8-b486-3975f7d1efa6)](https://github.com/Sayed044/Sayed044/commit/39b106bfac9f595a1ff5ebd4b14e35369d08ebbd#commitcomment-146104939)](https://github.com/Sayed044/Sayed044/commit/39b106bfac9f595a1ff5ebd4b14e35369d08ebbd#commitcomment-146104939)
 
 The Quest for Knowledge Eager to deepen my understanding, I enrolled in online courses and joined coding communities. The more I learned, the more I realized the power of the MERN stack — MongoDB, Express.js, React, and Node.js. The thought of building dynamic, interactive web applications filled me with excitement and a burning desire to master this stack.
 
